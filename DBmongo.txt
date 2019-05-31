@@ -1,0 +1,1 @@
+mongodb+srv://Kiba:28091984@cluster0-yzt34.gcp.mongodb.net/test?retryWrites=true
